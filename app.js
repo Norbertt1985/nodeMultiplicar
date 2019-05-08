@@ -58,7 +58,7 @@ const colors=require('colors/safe');
 // })
 // .help()
 // .argv;
-
+//version
 //const multiplicar=require('./multiplicar/multiplicar')
  const {crearArchivo,listarTabla}=require('./multiplicar/multiplicar')
 
